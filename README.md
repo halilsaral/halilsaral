@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halil İbrahim Saral</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **my own startup**
+- 🎓 I'm currently a student at Doğuş University and working on **my own startup**.
 
 - 📫 How to reach me **/in/hisaral/**
 
